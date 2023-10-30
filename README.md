@@ -4,10 +4,6 @@
 
 ## Sobre
 O projeto consiste em realizar testes unitários com o JUnit 5 no Eclipse com o conceito TDD para garantir testes de software em projetos.Nesta branch tem como objetivo a documentação e criação do JAVADOC.
-## Atualização
-O autor da contribuição da documentação : Mel Plens Angelis
-Lançado:
-Versão: 1.8
 
 ## Utilidade
 Util para verificar possiveis erros no codigo durante o desenvolvimento, documentar erros e criar possiveis soluções.
