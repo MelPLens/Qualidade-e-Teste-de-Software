@@ -11,8 +11,6 @@
 
 🔹 Testes realizados
 
-🔹 Linguagens, dependências e libs utilizadas
-
 🔹 Recursos inseridos 
 
 🔹 Desenvolvedores/Contribuintes
